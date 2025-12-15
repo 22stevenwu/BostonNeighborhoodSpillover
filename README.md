@@ -44,6 +44,6 @@ Each of these notebooks generally includes:
 
 While the structure is similar across notebooks, each one examines a **distinct local patterns**.
 
-**Note:** Spillover analyses between neighborhoods using **all crime types** were also conducted. A demo version is included called **demo_JP** (spillover between Roxbury and Jamaica Plain) to show what these files looked like. That analysis is maintained in a separate repository (https://github.com/younesszs/O2O) and the other districts are not included here. 
+**Note:** Spillover analyses between neighborhoods using **all crime types** were also conducted. Two demo versions are included called **demo_JP** and **demo_Mattapan** (spillover between Roxbury and Jamaica Plain/Mattapan) to show what these files looked like. That analysis is maintained in a separate repository (https://github.com/younesszs/O2O) and the other districts are not included here. 
 
 ---
