@@ -24,6 +24,10 @@ The repository is organized around two main components:
 
   All subsequent analyses build on the outputs and assumptions established in this notebook.
 
+### Figures
+
+The figures folder contains code that was used to create some of our key visuals. 
+
 ---
 
 ### Neighborhood-Specific Spillover Analyses
